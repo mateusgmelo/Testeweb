@@ -1,10 +1,10 @@
 import React from 'react';
-import Login from './Login';
+import Dashboard from './assets/components/Dashboard';
 
 const App = () => {
   return (
     <div className="App">
-      <Login />
+      <Dashboard />
     </div>
   );
 };
